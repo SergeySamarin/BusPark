@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "mongoose": {
+    "uri": "mongodb+srv://SergeySamarin:NikmaAmkin53490!@cluster0-tphmq.mongodb.net/BusPark?retryWrites=true"
+  }
+}
